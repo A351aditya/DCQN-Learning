@@ -1,2 +1,2 @@
-# DCQN-Learning
-This is my second project of ML
+# Mobile-Price-classification
+This is my first project (ML)
